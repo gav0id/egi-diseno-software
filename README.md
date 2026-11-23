@@ -3,7 +3,7 @@
 **Evaluación Global Integradora (EGI) – Diseño de Software**  
 * **Carrera:** Tecnicatura Universitaria en Desarrollo de Software (ITU)
 * **Alumno:** Gabriel Martinez
-* **Patrón de diseño aplicado:** Factory Method (Método Fábrica)
+* **Patrón de diseño aplicado:** Factory Method
 * **Lenguaje:** Java (OpenJDK 21.0.5 – Temurin)
 
 ---

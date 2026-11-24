@@ -35,7 +35,7 @@ src/
 
 ## Diagrama de Clases UML
 
-[Diagrama]
+<img width="895" height="1030" alt="ALAAAA drawio" src="https://github.com/user-attachments/assets/7f4e28cc-d958-43fa-a00c-0f0c35ff7360" />
 
 ---
 

@@ -66,4 +66,5 @@ src/
 ---
 
 ## Evidencia de ejecución
-[Captura de la consola]
+<img width="917" height="579" alt="{F3BFAC64-DAC3-41B9-880F-72CA5E78DC5D}" src="https://github.com/user-attachments/assets/553d74fb-5308-42fe-b91e-52d2af4b25e9" />
+

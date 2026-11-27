@@ -15,6 +15,9 @@ En el desarrollo de un videojuego *Metroidvania* ambientado en el reino de Pharl
 Para evitar un acoplamiento fuerte entre el motor del juego y las clases concretas de cada enemigo —así como condicionales extensos que dificultan agregar nuevos biomas o expansiones—, se implementó el patrón **Factory Method**. La clase abstracta `GeneradorZona` centraliza la lógica del encuentro y delega en cada bioma concreto la instanciación de sus criaturas mediante el método fábrica `crearEnemigo(tipo)`, trabajando siempre contra la interfaz común `Enemigo`.
 
 ---
+## Ejercitaciones de los 3 patrones de diseño
+**[Enlace al Repositorio de la Ejercitacion](https://github.com/gav0id/ejercicios-diseno-software)**
+
 
 ## Estructura del proyecto
 
